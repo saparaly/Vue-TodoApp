@@ -9,7 +9,7 @@ A simple and user-friendly Todo app where you can add, edit, delete and change t
 * Change the status of tasks by clicking on them, the status color will change
 * All data is saved in localStorage
 # Usage
-Clone the repository and open the index.html file in your browser to start using the Todo app.
+Clone the repository and cd to folder with this project and open the terminal and type "npm run dev" open the project in your browser to start using the Todo app.
 
 # Contributing
 If you would like to contribute to the project, feel free to submit a pull request.
