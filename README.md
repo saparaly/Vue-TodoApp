@@ -14,7 +14,6 @@ Clone the repository and open the index.html file in your browser to start using
 # Contributing
 If you would like to contribute to the project, feel free to submit a pull request.
 
-![image](https://user-images.githubusercontent.com/91125922/216806410-ccb1af1f-8fba-450b-a152-3256a70a0a5c.png)
 ![image](https://user-images.githubusercontent.com/91125922/216806426-314da52c-fd99-4ff3-a069-cd27acc85add.png)
 
 
