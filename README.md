@@ -4,10 +4,10 @@ A simple and user-friendly Todo app where you can add, edit, delete and change t
 
 # Features
 * Add tasks with a description
-Edit tasks by clicking on the task
-Delete tasks by clicking on the trash icon
-Change the status of tasks by clicking on them, the status color will change
-All data is saved in localStorage
+* Edit tasks by clicking on the task
+* Delete tasks by clicking on the trash icon
+* Change the status of tasks by clicking on them, the status color will change
+* All data is saved in localStorage
 # Usage
 Clone the repository and open the index.html file in your browser to start using the Todo app.
 
